@@ -1,4 +1,11 @@
 # cheddar-admin
 An admin client with superior style 🧀
 
-##### i know the license says you can do whatever with the code but credit wouldnt hurt :) 
+## Unfinished Stuff
+- Panel UI
+- Commands
+- Host Panel
+
+## Finished Stuff
+- open button + animations
+- ui outline
